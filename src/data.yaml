@@ -1,0 +1,184 @@
+title: Flash Forward Tech
+bannerText: Full Stack Development. Accepting new projects!
+about:
+  title: Full-Stack Software Engineering
+  text: >-
+    Flash Forward Tech was founded in 2016 and is led by Steve Fuentes, who brings 14+ years experience delivering innovative web applications and 
+    infrastructure across industries including publishing, e-commerce, 
+    and advertising. Dedicated to implementing streamlined, 
+    high-performance code with the latest frameworks and standards 
+    to bring to life innovative and engaging experiences on the web and beyond.
+  frontend:
+    text: >- 
+      Work from designs to build engaging and attractive interactive sites, leveraging modern frameworks and optimizing user experience, performance and search engine discoverability.
+    tags: 
+      - SEO Optimization
+      - React.js
+      - Shopify
+      - Node.js
+      - Svelte
+      - Next.js      
+      - Ruby on Rails
+      - Angular
+  backend:
+    text: >-
+      Develop performant, secure and robust solutions, including site and app infrastructure, API development and server management. 
+      Streamline workflows leveraging CI/CD and SaaS to create manageable and practical technology stack.
+    tags:       
+      - AWS
+      - ChatGPT  / AI/ML Integration
+      - Git
+      - Database
+      - RESTful API Development
+      - Docker / Containerization
+      - Unit Testing
+clients:  
+  - title: The Washington Post
+    year: 2018 - 2024
+    logo: "./assets/wpcg-icon.svg"
+    short_description: Backend infrastructure overhaul for publishing setup, created frontend tools and dashboards.
+    description: >-
+       We worked with the WP Creative Group from 2018 - 2024, collaborating with brands to create interactive and engaging experiences to amplify their message. We led an exhaustive overhaul of their publishing setup, streamlining deployment and QA for all releases, establishing robust security and eliminating downtime on their servers as well as integrating a custom CMS.  We also created interactive experiences and tools including AR experiences, word games such as crosswords and wordsearch, and AI-Powered tools for copywriters to create social content efficiently on all platforms.
+    images:
+      - ./assets/images/wapo-rolex.png
+      - ./assets/images/wapo-hanami.png
+      - ./assets/images/wapo-hanami-ar.png      
+  - title: Cafe Gratitude
+    year: 2024
+    short_description:  Venice vegan institution frontend and backend site build.
+    description: >-
+       We worked with Cafe Gratitude an iconic plant based institution in Venice, Californiato bring to life colorful and engaging designs with a captivating and intuitive site build levaraging a Shopify backend to allow for easy editing and expansion for seasonal offerings.
+    tags:
+      - Shopify
+      - e-commerce
+      - SEO Optimization
+    images:
+      - ./assets/images/cafegratitude.png
+      - ./assets/images/cafegratitude-about-us.png
+      - ./assets/images/cafegratitude-locations.png
+      - ./assets/images/cafegratitude-menus.png      
+      - ./assets/images/cafegratitude-catering.png
+  - title: Paige AI
+    year: 2018
+    short_description: Frontend and backend setup for Paige AI.    
+    description: We worked with Paige AI, an cutting-edge AI based medical research company to develop a streamlined and comprehensive front and backend setup for their launch.
+    images:
+    - "./assets/images/paige-home.jpg"
+    - "./assets/images/paige-careers.jpg"
+    url: https://paige.ai/
+  - title: Urban Zen
+    year: 2017
+    short_description:  E-commerce site for Urban Zen with custom WordPress backend and
+      Shopify integration.
+    description: We worked with Urban Zen, a lifestyle brand by Donna Karan to optimize and elevate their e-commerce experience.  We created a custom Wordpress backend with Shopify integration for easy launched for new product lines with bespoke homepages, and reduced loading times and improved SEO.
+    tags:
+    - SEO Optimization
+    - Shopify
+    - Wordpress    
+    images:
+    - "./assets/images/uz-home.jpg"
+    - "./assets/images/uz-arrivals.jpg"
+    - "./assets/images/uz-stores.jpg"
+    url: http://urbanzen.com  
+  - title: Sweet Whistle
+    year: 2016
+    short_description: E-Commerce site for Sweet Whistle with custom checkout.
+    description: We worked with Sweet Whistle to launch a site for their gifting e-commerce platform, building a streamlined site and integrating a custom checkout to build a gift box with custom items and messaging.
+    images:
+    - "./assets/images/sweetwhistle-1.png"
+    - "./assets/images/sweetwhistle-2.png"
+    - "./assets/images/sweetwhistle-3.png"
+    - "./assets/images/sweetwhistle-4.png"
+    - "./assets/images/sweetwhistle-5.png"
+    - "./assets/images/sweetwhistle-6.png"
+    - "./assets/images/sweetwhistle-7.png"
+    url: http://www.sweetwhistle.com 
+  - title: Steele's Weekly Preview
+    year: 2016
+    short_description: Website for Phil Steele, football statistician.
+    description: We built a frontend and backend for Phil Steele, football statistician, to engage and connect with his followers to showcase his picks.
+    images:
+    - "./assets/images/steelesweeklypreview-1.png"
+    - "./assets/images/steelesweeklypreview-2.png"
+    - "./assets/images/steelesweeklypreview-3.png"
+    url: http://steelesweeklypreview.com
+  - title: Tyler History Wall
+    year: 2016
+    short_description: Interactive timeline website for the Tyler School of Art anniversary.
+    skills: ''
+    description: We built an interactive timeline website for the Tyler School of Art, the artistic department of Temple University.
+    images:
+    - "./assets/images/tyler1.png"
+    - "./assets/images/tyler2.png"
+    url: tylerdesignmfa.com/tylerhistorywall/  
+  - title: Groundswell Design Group
+    short_description: Portfolio site for Groundswell Design Group.
+    year: 2016        
+    images:
+    - "./assets/images/groundswelldesigngroup-1.png"
+    - "./assets/images/groundswelldesigngroup-2.png"
+    - "./assets/images/groundswelldesigngroup-3.png"
+    - "./assets/images/groundswelldesigngroup-4.png"
+    url: ''
+  - title: Aeropostale
+    year: 2015
+    short_description: E-commerce site for Aeropostale's "Brooklyn Calling" line.
+    skills: ''
+    description: We developed the front and backend for Aeropostale's "Brooklyn Calling" launch with immersive frontend with interactive video and responsive UX.
+    images:
+    - "./assets/images/brooklyn-calling.gif"
+    - "./assets/images/brooklyn-calling-m.png"
+    - "./assets/images/brooklyn-calling-m2.png"
+    - "./assets/images/brooklyn-calling-2.png"
+    - "./assets/images/brooklyn-calling-m3.png"
+    url: ''    
+  - title: Ann-Morris
+    year: 2015
+    short_description: Showcase for Ann-Morris lighting and antiques.
+    description: We worked with Ann-Morris to create an engaging showcase for their comprehensive offerings in lighting and antiques.
+    url: http://ann-morris.com
+    images:
+    - "./assets/images/ann-morris-1.png"
+    - "./assets/images/ann-morris-2.png"
+    - "./assets/images/ann-morris-3.png"
+    - "./assets/images/ann-morris-4.png"
+    - "./assets/images/ann-morris-5.png"
+  - title: Tru Fragrance
+    year: 2015    
+    short_description: Portfolio site for global fragrance makers Tru Fragrance.
+    images:
+    - "./assets/images/tru1.png"
+    - "./assets/images/tru2.png"
+    - "./assets/images/tru3.png"
+    - "./assets/images/tru4.png"
+    - "./assets/images/tru5.png"
+    - "./assets/images/tru6.png"
+    url: http://www.trufragrance.com/  
+  - title: Grandlife Hotels
+    year: 2015
+    short_description: Showcase sites for Grandlife Hotels.
+    skills: ''
+    description: A set of sites for Grandlife Hotels, The Roxy, and the Soho Grand
+      Hotel.
+    images:
+    - "./assets/images/gl1.png"
+    - "./assets/images/gl2.png"
+    - "./assets/images/gl3.png"
+    - "./assets/images/gl4.png"
+    - "./assets/images/roxy.png"
+    - "./assets/images/soho.png"
+    url: http://www.grandlifehotels.com/
+  - title: HBA
+    year: 2015
+    short_description: An e-commerce site for Hood By Air.
+    skills: ''    
+    images:
+    - "./assets/images/hba1.png"
+    - "./assets/images/hba2.png"
+    - "./assets/images/hba3.png"
+    - "./assets/images/hba4.png"
+    url: http://www.hoodbyair.com/  
+contact:
+  text: >-
+    We'd love to work with you and help you realize your development goals! Fill out the contact form below or email us directly at
+  email: hello@flashforward.tech

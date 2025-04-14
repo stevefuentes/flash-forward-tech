@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="33" height="32" viewBox="0 0 33 32" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com">
+  <defs>
+    <bx:export>
+      <bx:file format="svg" href="#object-0" excluded="true"/>
+      <bx:file format="svg" href="#object-1" path="Untitled 2.svg" excluded="true"/>
+      <bx:file format="svg" href="#object-2" path="Untitled 3.svg" excluded="true"/>
+      <bx:file format="svg" href="#object-3" path="Untitled 4.svg" excluded="true"/>
+      <bx:file format="svg" href="#object-4" path="Untitled 5.svg" excluded="true"/>
+      <bx:file format="svg" href="#object-5" path="Untitled 6.svg" excluded="true"/>
+      <bx:file format="svg" href="#object-6" path="Untitled 7.svg" excluded="true"/>
+      <bx:file format="svg" href="#object-7" path="Untitled 8.svg" excluded="true"/>
+      <bx:file format="svg" href="#object-8" path="Untitled 9.svg" excluded="true"/>
+      <bx:file format="svg" href="#object-9" path="Untitled 10.svg" excluded="true"/>
+      <bx:file format="svg" href="#object-10" path="Untitled 11.svg" excluded="true"/>
+      <bx:file format="svg" href="#object-11" path="Untitled 12.svg" excluded="true"/>
+      <bx:file format="svg" href="#object-12" path="Untitled 13.svg" excluded="true"/>
+      <bx:file format="svg" href="#object-13" path="Untitled 14.svg" excluded="true"/>
+      <bx:file format="svg" href="#object-14" path="Untitled 15.svg" excluded="true"/>
+      <bx:file format="svg" href="#object-15" path="Untitled 16.svg" excluded="true"/>
+      <bx:file format="svg" href="#object-16" path="Untitled 17.svg" excluded="true"/>
+    </bx:export>
+  </defs>
+  <path d="M 18.375 31.24 L 18.375 29.72 L 21.415 29.72 L 21.415 28.19 L 24.465 28.19 L 24.465 26.67 L 27.515 26.67 L 27.515 25.14 L 29.035 25.14 L 29.035 23.62 L 30.565 23.62 L 30.565 8.38 L 29.035 8.38 L 29.035 6.86 L 27.515 6.86 L 27.515 8.38 L 24.465 8.38 L 24.465 9.91 L 21.415 9.91 L 21.415 11.43 L 18.375 11.43 L 18.375 12.95 L 15.325 12.95 L 15.325 14.48 L 16.85 14.48 L 16.85 29.72 L 15.33 29.72 L 15.33 31.24 L 18.375 31.24 Z" fill="currentColor" id="object-0"/>
+  <path d="M27.515 5.33997H24.465V6.85997H27.515V5.33997Z" fill="currentColor" id="object-1"/>
+  <path d="M24.465 3.81006H21.415V5.34006H24.465V3.81006Z" fill="currentColor" id="object-2"/>
+  <path d="M21.415 2.29004H18.375V3.81004H21.415V2.29004Z" fill="currentColor" id="object-3"/>
+  <path d="M18.375 0.76001H15.325V2.29001H18.375V0.76001Z" fill="currentColor" id="object-4"/>
+  <path d="M15.3249 28.1901H12.2749V29.7201H15.3249V28.1901Z" fill="currentColor" id="object-5"/>
+  <path d="M15.3249 11.4301H12.2749V12.9501H15.3249V11.4301Z" fill="currentColor" id="object-6"/>
+  <path d="M15.3249 2.29004H12.2749V3.81004H15.3249V2.29004Z" fill="currentColor" id="object-7"/>
+  <path d="M12.2751 26.67H9.2251V28.19H12.2751V26.67Z" fill="currentColor" id="object-8"/>
+  <path d="M12.2751 9.91003H9.2251V11.43H12.2751V9.91003Z" fill="currentColor" id="object-9"/>
+  <path d="M12.2751 3.81006H9.2251V5.34006H12.2751V3.81006Z" fill="currentColor" id="object-10"/>
+  <path d="M9.22506 25.14H6.18506V26.67H9.22506V25.14Z" fill="currentColor" id="object-11"/>
+  <path d="M9.22506 8.38H6.18506V9.91H9.22506V8.38Z" fill="currentColor" id="object-12"/>
+  <path d="M9.22506 5.33997H6.18506V6.85997H9.22506V5.33997Z" fill="currentColor" id="object-13"/>
+  <path d="M6.18503 23.62H4.65503V25.14H6.18503V23.62Z" fill="currentColor" id="object-14"/>
+  <path d="M6.18503 6.85999H4.65503V8.37999H6.18503V6.85999Z" fill="currentColor" id="object-15"/>
+  <path d="M4.65501 8.38H3.13501V23.62H4.65501V8.38Z" fill="currentColor" id="object-16"/>
+</svg>
