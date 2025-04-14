@@ -1,3 +1,2 @@
-dont move icons
-
-restore windows with desktop button
+# Flash Forward Tech
+Site built with React and TailwindCSS.
